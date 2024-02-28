@@ -43,7 +43,7 @@ class _StartScreenState extends State<StartScreen> {
             children: [
               cardVertical(90, 125, Colors.deepPurple[50], 'Dinner', 'lanches.png'),
               cardVertical(90, 125, Colors.deepPurple[50], 'Pharmacy', 'farmacia.png'),
-              cardVertical(90, 125, Colors.deepPurple[50], 'Juices', 'suco.png'),
+              cardVertical(90, 125, Colors.deepPurple[50], 'Juices', 'sucos.png'),
               cardVertical(90, 125, Colors.deepPurple[50], 'Pizza', 'pizza.png'),
             ],
           ),
